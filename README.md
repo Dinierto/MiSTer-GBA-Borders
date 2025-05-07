@@ -39,6 +39,28 @@ convertfolder.py
 
 Depending on your operating system, you may be able to run `convertfolder.py` directly from your file explorer without opening a command prompt.
 
+Warning!  You may get the following error:
+
+```
+Traceback (most recent call last):
+  File "<convertBorder.py path>", line 2, in <module>
+    from PIL import Image # pip install Pillow
+```
+
+If so then you will need to go to the command line and type in the following command to install Pillow:
+
+```
+pip install Pillow
+```
+
 ## Screen alignment tool
 
 The `Tools` folder also includes a special border called `Alignment test.bor`. This is useful for adjusting the screen alignment in the latest GBA core, which allows tweaking horizontal and vertical positioning. The border features alternating color bars every 5 pixels to help with alignment.
+
+## Contributers
+
+**FPGAzumSpass**- Core developer, border conversion scripts
+
+**Dinierto**- Github repository, border template, alignment test border, border conversions, borders
+
+**tunnotron3000**- Borders
