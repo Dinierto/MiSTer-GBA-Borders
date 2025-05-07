@@ -4,7 +4,7 @@ This repository contains community-made borders, along with extracted Game Boy P
 
 ## Installation
 
-By default, the GBA core looks for borders in `/games/GBA`. I recommend creating a subfolder inside that directory, such as `/games/GBA/Borders`, to help keep things organized.  
+Files must be in `.bor` format.  By default, the GBA core looks for borders in `/games/GBA`; I recommend creating a subfolder inside that directory, such as `/games/GBA/Borders`, to help keep things organized.  
 
 Once you’ve copied your `.bor` files over, open the core menu and go to **Video & Audio → Borders: On** to enable them.
 
