@@ -61,8 +61,8 @@ The `Tools` folder also includes a special border called `Alignment test.bor`. T
 
 **FPGAzumSpass**- Core developer, border conversion scripts
 
-**Dinierto**- Github repository, border template, alignment test border, border conversions, borders
+**Dinierto**- Github repository, border template, alignment test border, border conversions, borders (Metallic, Solid, Brushed Steel, Wood Grain)
 
-**tunnotron3000**- Borders
+**tunnotron3000**- Borders (Misterkun)
 
-**Richard Webster**- Borders
+**Richard Webster**- Borders (RW Gameboy Advance, Super Gameboy Advance)
