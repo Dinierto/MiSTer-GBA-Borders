@@ -64,3 +64,5 @@ The `Tools` folder also includes a special border called `Alignment test.bor`. T
 **Dinierto**- Github repository, border template, alignment test border, border conversions, borders
 
 **tunnotron3000**- Borders
+
+**Richard Webster**- Borders
