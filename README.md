@@ -57,6 +57,41 @@ pip install Pillow
 
 The `Tools` folder also includes a special border called `Alignment test.bor`. This is useful for adjusting the screen alignment in the latest GBA core, which allows tweaking horizontal and vertical positioning. The border features alternating color bars every 5 pixels to help with alignment.
 
+## Border Thumbnails
+
+### Anime0t4ku Border Pack
+<img src="Thumbnails/Anime0t4ku%20Border%20Pack.png" width="600" alt="Anime0t4ku Border Pack">
+<br>
+
+### GBA Micro
+<img src="Thumbnails/GBA%20Micro.png" width="600" alt="GBA Micro">
+<br>
+
+### GC & GB Player
+<img src="Thumbnails/GC%20%26%20GB%20Player.png" width="600" alt="GC & GB Player">
+<br>
+
+### Metallic
+<img src="Thumbnails/Metallic.png" width="600" alt="Metallic">
+<br>
+
+### Miscellaneous
+<img src="Thumbnails/Miscellaneous.png" width="600" alt="Miscellaneous">
+<br>
+
+### RW Gameboy Advance
+<img src="Thumbnails/RW%20Gameboy%20Advance.png" width="600" alt="RW Gameboy Advance">
+<br>
+
+### Solid
+<img src="Thumbnails/Solid.png" width="600" alt="Solid">
+<br>
+
+### Super Gameboy Advance
+<img src="Thumbnails/Super%20Gameboy%20Advance.png" width="600" alt="Super Gameboy Advance">
+<br>
+
+
 ## Contributers
 
 **FPGAzumSpass**- Core developer, border conversion scripts
