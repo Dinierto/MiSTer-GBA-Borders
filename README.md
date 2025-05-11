@@ -75,6 +75,10 @@ The `Tools` folder also includes a special border called `Alignment test.bor`. T
 <img src="Thumbnails/Metallic.png" width="600" alt="Metallic">
 <br>
 
+### misterKunBorder.png
+<img src="Thumbnails/misterKunBorder.png" width="600" alt="misterKunBorder.png">
+<br>
+
 ### RW Gameboy Advance
 <img src="Thumbnails/RW%20Gameboy%20Advance.png" width="600" alt="RW Gameboy Advance">
 <br>
