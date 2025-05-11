@@ -66,3 +66,5 @@ The `Tools` folder also includes a special border called `Alignment test.bor`. T
 **tunnotron3000**- Borders (Misterkun)
 
 **Richard Webster**- Borders (RW Gameboy Advance, Super Gameboy Advance)
+
+**Anime0t4ku**- Borders (Anime0t4ku Border Pack)
