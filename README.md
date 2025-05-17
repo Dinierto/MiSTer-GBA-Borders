@@ -98,7 +98,7 @@ The `Tools` folder also includes a special border called `Alignment test.bor`. T
 <br>
 
 ### tunnotron3000
-<img src="Thumbnails/tunnotron3000.png" width="600" alt="Textures">
+<img src="Thumbnails/tunnotron3000.png" width="600" alt="tunnotron3000">
 <br>
 
 ## Contributers
