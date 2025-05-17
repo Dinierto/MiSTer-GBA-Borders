@@ -8,7 +8,9 @@ Files must be in `.bor` format.  By default, the GBA core looks for borders in `
 
 Once you’ve copied your `.bor` files over, open the core menu and go to **Video & Audio → Borders: On** to enable them.
 
-If you’d like your Downloader script to automatically grab the latest borders from this repository, add this line to the end of your `downloader.ini`:
+These GBA Borders have now officially been added to the update_all, so if you are running the script simply press `up` for settings, and you'll find the option to download them under extra content.
+
+If you're NOT using update_all, and you’d like your Downloader script to automatically grab the latest borders from this repository, add this line to the end of your `downloader.ini`:
 
 ```
 [Dinierto/MiSTer-GBA-Borders]
@@ -95,13 +97,17 @@ The `Tools` folder also includes a special border called `Alignment test.bor`. T
 <img src="Thumbnails/Textures.png" width="600" alt="Textures">
 <br>
 
+### tunnotron3000
+<img src="Thumbnails/tunnotron3000.png" width="600" alt="Textures">
+<br>
+
 ## Contributers
 
 **FPGAzumSpass**- Core developer, border conversion scripts
 
 **Dinierto**- Github repository, border template, alignment test border, border conversions, borders (Metallic, Solid, Brushed Steel, Wood Grain)
 
-**tunnotron3000**- Borders (Misterkun)
+**tunnotron3000**- Borders (tunnotron3000)
 
 **Richard Webster**- Borders (RW Gameboy Advance, Super Gameboy Advance)
 
