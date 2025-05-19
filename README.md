@@ -23,6 +23,8 @@ Inside the `Tools` folder, you’ll find a Photoshop template (`MiSTer GBA Borde
 
 Try to avoid placing important details outside the red lines (or inside the red area, if you're using the `.png` template), as they may be cut off by CRT overscan. When you’re done, export your image as a **bitmap (.bmp)** file.
 
+If you don't have a graphical editing program, both [GIMP](https://www.gimp.org/) and [Paint.net](https://www.getpaint.net/) are free options and can edit the `.psd` format.  If you want to use Paint.net, you will need to download the `.psd` plugin from [here](https://www.psdplugin.com/).
+
 ## Creating borders
 
 There are two scripts in the `Tools` folder for generating border files: `convertBorder.py` and `convertfolder.py`. Both require your input image(s) to be a 320x240 **.bmp** file.
