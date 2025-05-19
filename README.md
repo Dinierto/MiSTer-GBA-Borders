@@ -19,9 +19,9 @@ db_url = https://raw.githubusercontent.com/Dinierto/MiSTer-GBA-Borders/db/db.jso
 
 ## Template
 
-Inside the `Tools` folder, you’ll find a Photoshop template (`MiSTer GBA Border Template.psd`) for creating your own borders. It includes guides for image center (yellow), GBA display area (green), and overscan (red).  
+Inside the `Tools` folder, you’ll find a Photoshop template (`MiSTer GBA Border Template.psd`) for creating your own borders. It includes guides for image center (yellow), GBA display area (green), and overscan (red).  There is also a `.png` file that shows these areas, if you can't open a `.psd` file.  Keep in mind that the GBA display area is a 240 x 160 rectangle centered inside the 320 x 240 image.
 
-Try to avoid placing important details outside the red lines, as they may be cut off by CRT overscan. When you’re done, export your image as a **bitmap (.bmp)** file.
+Try to avoid placing important details outside the red lines (or inside the red area, if you're using the `.png` template), as they may be cut off by CRT overscan. When you’re done, export your image as a **bitmap (.bmp)** file.
 
 ## Creating borders
 
