@@ -8,9 +8,9 @@ Files must be in `.bor` format.  By default, the GBA core looks for borders in `
 
 Once you’ve copied your `.bor` files over, open the core menu and go to **Video & Audio → Borders: On** to enable them.
 
-These GBA Borders have now officially been added to the update_all, so if you are running the script simply press `up` for settings, and you'll find the option to download them under extra content.
+These GBA Borders have now officially been added to the `update_all`, so if you are running the script simply press `up` for **settings**, and you'll find the option to download them under **extra content**.  They will then download to `/games/GBA/Borders` on your system.
 
-If you're NOT using update_all, and you’d like your Downloader script to automatically grab the latest borders from this repository, add this line to the end of your `downloader.ini`:
+If you're NOT using `update_all`, and you’d like your `Downloader` script to automatically grab the latest borders from this repository, add this line to the end of your `downloader.ini`:
 
 ```
 [Dinierto/MiSTer-GBA-Borders]
